@@ -24,4 +24,4 @@ Make sure you have the following software installed on your machine:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/periodic-table-explorer.git
+   git clone https://github.com/krmayur/periodic-table-explorer.git
